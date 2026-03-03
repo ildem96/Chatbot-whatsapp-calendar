@@ -69,11 +69,3 @@ Para receber a agenda todo dia sem precisar clicar em nada:
 * **Para a Agenda:** Use o menu superior ou o acionador automático. O bot filtrará seus eventos do Google Agenda e enviará formatado com emojis.
 * **Para E-mails:** Preencha Nome e E-mail na aba `Envios` e use o menu **Ferramentas de E-mail**.
 * **Para CNPJ:** Digite um CNPJ em qualquer célula, selecione-a e vá em **Serviços Externos** > **Consultar CNPJ**.
-
-
-
-## 📝 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-"# Chatbot-whatsapp-calendar" 
