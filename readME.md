@@ -18,6 +18,8 @@ Este repositório contém pequena automação de escritório desenvolvida em **G
 * **APIs do Google:** Calendar API, Gmail API, Spreadsheet Service.
 * **APIs Externas:**  [callmebot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) (WhatsApp Gateway), [Brasil_API](https://brasilapi.com.br/) (Dados Públicos). ![image](https://www.callmebot.com/wp-content/uploads/2019/10/Logo-Negro_x2.png)
 
+  <img src="https://github.com/ildem96/Chatbot-whatsapp-calendar/blob/main/snapshot.jpeg?raw=true" width="400">  <img src="https://github.com/ildem96/Chatbot-whatsapp-calendar/blob/main/snapshot02.jpeg?raw=true" width="400">  <img src="https://github.com/ildem96/Chatbot-whatsapp-calendar/blob/main/%7B8DA7334F-2923-42DF-AB5F-F39A02424655%7D.png?raw=true" width="350">
+
 
 
 ## 📖 Manual de Instalação
